@@ -3,3 +3,5 @@ Entregas dos desafios do curso Database Experience da Dio
 
 * Projeto Conceitual de Banco de Dados - E-commerce
 * Script SQL do cenário E-commerce
+* Projeto Conceitual de Banco de Dados - Oficina
+* Script SQL do cenário Oficina
