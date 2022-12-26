@@ -1,7 +1,9 @@
+# Projeto Prático: O papel dos bancos de dados relacionais e não relacionais na Engenharia de Dados
+
 Para a área de Tecnologia da Informação, armazenar informações é um desafio e com a evolução dos bancos de dados surgiram várias alternativas para guardar e acessar os dados com segurança e velocidade.
-
+&nbsp;
 Os bancos de dados relacionais (SQL) tem como base a utilização de tabelas. São adequados quando se deseja armazenar dados que possuem relação entre si, manter a consistência e evitar duplicidades, características que são valiosas para a recuperação e compreensão dos dados. O modelo é bem definido e é possível um esquema rígido. Esses bancos são baseados em quatro propriedades: atomicidade, conscistência, isolamento e durabilidade da informação.
-
+&nbsp;
 Devido ao alto volume de dados na internet, gerou-se uma necessidade de formas mais flexíveis de armazenamento. Assim surgiram os bancos de dados não relacionais (NoSQL). Como o próprio nome sugere, eles armazenam dados que não têm forte relação entre si. Surgiram como uma alternativa aos bancos relacionais, uma capacidade adicional, e ao invés de tabelas são utilizadas coleções de dados, possibilitando agilidade na leitura das informações. Os bancos não relacionais atendem necessidades diferentes em escalabilidade (horizontal), utilizam uma estrutura de dados não rígida e armazenam  dados de características diferentes. Em nome da escalabilidade abre-se mão da consistência eventual. O NoSQL é recomendado para aplicações que a consistência não é o fator mais relevante e onde o desempenho é um fator crítico.
-
+&nbsp;
 Os dois tipos de bancos são complementares, um não veio pra substituir o outro. Arquitetura do banco de dados deve ser estabelecida conforme a complexidade dos dados e as ETLs que serão necessárias. A escolha do banco mais apropriado deve ser efetuada com base nas necessidades do projeto.
